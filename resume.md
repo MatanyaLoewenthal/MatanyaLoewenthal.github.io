@@ -43,7 +43,7 @@ Resume
 
 ### Experience
 
-#### **NELNET INC. (Denver, Colorado)**
+#### **<u>NELNET INC. (Denver, Colorado)</u>**
 
 Intern, IT Analytics - Desktop Support (June 2021 - Present)
 - ***Managing Enterprise Environments:*** Maintained and Troubleshooted both in-house and cloud based secure workspaces and distributed applications on both modern servers and legacy mainframes.
@@ -52,7 +52,7 @@ Intern, IT Analytics - Desktop Support (June 2021 - Present)
 - ***Data Security and Compliance:*** Learned and applied protocols to protect sensitive client data.     	
   - (Microsoft Productivity Suite, Security, Enterprise & Legacy Systems)
  
-#### **JOINT INSTITUTE FOR LABORATORY ASTROPHYSICS (JILA)	(Boulder, Colorado)**
+#### **<u>JOINT INSTITUTE FOR LABORATORY ASTROPHYSICS (JILA)	(Boulder, Colorado)</u>**
 
 Intern, Lab Assistant	(Mar 2017 - May 2017)
 - ***Sensor and Optics Installation:*** Assisted Dr. Josh H. Baraban, Ph.D., with research in the JILA Ye Group lab and with the CU Boulder Chemistry department on an optically accessible pyrolysis microreactor (doi: 10.1063/1.4939459), as well as Laser-comb Molecular Spectroscopy (doi: 10.1364/OE.27.001911) 
@@ -60,7 +60,7 @@ Intern, Lab Assistant	(Mar 2017 - May 2017)
   - (Python, Matlab, Optical Systems, IoT Devices)
 
 
-#### **PRESENTENSE COLORADO FELLOWSHIP (Denver, Colorado)**
+#### **<u>PRESENTENSE COLORADO FELLOWSHIP (Denver, Colorado)</u>**
 
 Fellow, Student Advisor (Aug 2016 - May 2017)
 - ***Prototyping:*** Designed and built several iterations of a prototype system for verifying and auditing the status of the East Denver Eruv, as well as gathering statistics for focused maintenance and repair. 
@@ -68,7 +68,7 @@ Fellow, Student Advisor (Aug 2016 - May 2017)
 - ***Budgeting:*** Designed and built several iterations of the prototype, within budget and on time.
    -(Leadership, Fusion 360, Systems Integration, Fiber Optic Networking)
 
-#### **RECREATIONAL EQUIPMENT INC. (Washington, DC)**
+#### **<u>RECREATIONAL EQUIPMENT INC. (Washington, DC)</u>**
 
 Retail Sales Specialist	(August 2020 - December 2020)
 - ***Teamwork:*** Worked with a team of over 100 employees to help customers choose appropriate outdoor gear, provide Customer Service, organize inventory, and simplify both product packaging and shipping.
@@ -78,6 +78,6 @@ Retail Sales Specialist	(August 2020 - December 2020)
 
 ---
 
-### Hobbies
+### <u>Hobbies</u>
 
-Hobbies: Long distance backpacking (Colorado Trail 2020, Appalachian Trail 2021), Outdoor Adventure Sports
+Hobbies: Homelabbing, Long distance backpacking (Colorado Trail 2020, Appalachian Trail 2021), Outdoor Adventure Sports
