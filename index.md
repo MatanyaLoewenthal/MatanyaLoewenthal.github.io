@@ -4,7 +4,7 @@ I'm a Senior Computer Science Major at the University of Maryland, College Park.
 
 My primary Operating System and devopment environment for the last 8 years has been `Linux`, specifically `Debian` based distrobutions, but I have significant experience with most `UNIX` based systems from the past 10 years.
 
-## [Resume](https://matanyaloewenthal.github.io/resume)
+## [Resume](https://www.loewenthal.net/resume)
 
 ## [Github](https://github.com/MatanyaLoewenthal)
 
@@ -12,6 +12,5 @@ My primary Operating System and devopment environment for the last 8 years has b
 
 ## [LinkedIn](https://www.linkedin.com/in/matanya-loewenthal/)
 
-## [Contact](https://matanyaloewenthal.github.io/contact)
-
+## [Contact](https://www.loewenthal.net/contact)
 
