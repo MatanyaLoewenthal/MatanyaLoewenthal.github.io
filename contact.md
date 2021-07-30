@@ -17,6 +17,7 @@ Send me an email!
     </p><p>
     <textarea rows="5" name="message" id="message" required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+    </p>
   </fieldset>
   <input type="submit" value="Submit">
 </form>
