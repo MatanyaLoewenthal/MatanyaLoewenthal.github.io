@@ -26,6 +26,7 @@ Resume
 - ***IoT Devices and Platforms:*** Raspberry Pi (`2B`, `Zero`, `Zero W`, `3B+`, 3A+, 4), `Arduino`, Google Assistant
 - ***Sensors:*** PureThermal + FLIR Lepton Thermal Sensor, Fiber Optic Communication Hardware
 - ***Fabrication Technologies:*** `3D Printing` (`FDM` with `PLA` and ABS), Slicer (`Ultimaker Cura`, Slic3r), CAD (`Autodesk Fusion 360`, Inventor, `Sketchup`), 3D Scanning (Skanect), `Woodworking`, `Sewing`
+
 ---
 ### Education
 
