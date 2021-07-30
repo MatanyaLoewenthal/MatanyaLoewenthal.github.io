@@ -4,7 +4,7 @@ Send me an email!
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xnqlgdad" method="post">
   <fieldset id="fs-frm-inputs">
-  <p>
+    <p>
     <label for="full-name">Full Name</label>
     </p><p>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
