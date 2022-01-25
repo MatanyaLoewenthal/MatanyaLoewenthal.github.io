@@ -12,7 +12,21 @@ My background in leading groups of counselors providing wilderness therapy also 
 
 I have experience with fast-changing development requirements, and have built applications that account for several different team’s objectives and needs, such as in a data pipeline for 7 different academic teams working within a premier Network Dynamics laboratory over the course of a semester.
 
-## [Resume](https://www.loewenthal.net/pdf/MatanyaResume_v1.4.2-SDE.pdf)
+# Projects
+
+## [rinstall](https://github.com/MatanyaLoewenthal/rinstall)
+![GitHub Repo stars](https://img.shields.io/github/stars/MatanyaLoewenthal/rinstall?style=social)
+
+*Installed package capturing and reinstalling made simple*
+
+`rinstall` is a Rust CLI application for reinstalling programs after upgrading or changing a Linux/Unix based Operating System. By building a human readable Yaml file of all installed applications, rebuilding complicated development environments is simplified.
+
+**Languages: `Rust`**
+
+---
+
+
+<!-- ## [Resume](https://www.loewenthal.net/pdf/MatanyaResume_v1.4.2-SDE.pdf)
 
 ## [CV](https://www.loewenthal.net/cv)
 
@@ -23,4 +37,4 @@ I have experience with fast-changing development requirements, and have built ap
 ## [LinkedIn](https://www.linkedin.com/in/matanya-loewenthal/)
 
 ## [Contact](https://www.loewenthal.net/contact)
-
+ -->
