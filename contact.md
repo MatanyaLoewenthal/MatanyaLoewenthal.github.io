@@ -1,6 +1,6 @@
 ## Contact Info
 
-Send me an email!
+If you would like to be in contact, please send me an email at `[my-first-name]@[my-last-name].net` or use the form below:
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xnqlgdad" method="post">
   <fieldset id="fs-frm-inputs">
