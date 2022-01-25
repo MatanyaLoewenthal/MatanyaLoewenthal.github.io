@@ -1,10 +1,20 @@
-# Who am I?
+# Matanya Loewenthal
 
-I'm a Senior Computer Science Major at the University of Maryland, College Park. I specialize in lower level programming (think Operating Systems, Compilers, `C`, and `x86`), but I'm at home in everything from Object Oriented Programming with `Python` and `Java` to Functional Languages like `Ocaml` and `Racket`.
+Matanya Loewenthal is a Computer Science Enthusiast and early-career Software Development Engineer.
 
-My primary Operating System and devopment environment for the last 8 years has been `Linux`, specifically `Debian` based distrobutions, but I have significant experience with most `UNIX` based systems from the past 10 years.
+I am recent graduate from the University of Maryland, College Park, with a B.S. in Computer Science. I opted for a wide range of topics over a specialization, and achieved top marks in Software Engineering and Data Structures.
 
-## [Resume](https://www.loewenthal.net/resume)
+I am is interested in all aspects of software and product development, and am looking for a position as a Software Engineer to gain hands-on experience in building scalable software before transitioning to Project Management and Product Design.
+
+My experience with Operating Systems and tool development gives me a foundation in building highly available and intuitive software in modern languages such as `Python` and `Rust`, and my background in functional programming and data structures allows me to express complex solutions in concise, robust, and production-ready code that is maintainable and scalable.
+
+My background in leading groups of counselors providing wilderness therapy also allows me to understand group dynamics and how to manage teams in challenging situations with tight deadlines, and have done so for a semester-long Software Engineering course.
+
+I have experience with fast-changing development requirements, and have built applications that account for several different team’s objectives and needs, such as in a data pipeline for 7 different academic teams working within a premier Network Dynamics laboratory over the course of a semester.
+
+## [Resume](https://www.loewenthal.net/MatanyaResume_v1.4.2-SDE.pdf)
+
+## [CV](https://www.loewenthal.net/cv)
 
 ## [Github](https://github.com/MatanyaLoewenthal)
 
