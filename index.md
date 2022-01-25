@@ -2,7 +2,7 @@
 
 Matanya Loewenthal is a Computer Science Enthusiast and early-career Software Development Engineer.
 
-I am recent graduate from the University of Maryland, College Park, with a B.S. in Computer Science. I opted for a wide range of topics over a specialization, and achieved top marks in Software Engineering and Data Structures.
+I am a recent graduate from the University of Maryland, College Park, with a B.S. in Computer Science. I opted for a wide range of topics over a specialization, and achieved top marks in Software Engineering and Data Structures.
 
 I am is interested in all aspects of software and product development, and am looking for a position as a Software Engineer to gain hands-on experience in building scalable software before transitioning to Project Management and Product Design.
 
