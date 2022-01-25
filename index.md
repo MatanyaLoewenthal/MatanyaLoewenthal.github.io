@@ -12,7 +12,7 @@ My background in leading groups of counselors providing wilderness therapy also 
 
 I have experience with fast-changing development requirements, and have built applications that account for several different team’s objectives and needs, such as in a data pipeline for 7 different academic teams working within a premier Network Dynamics laboratory over the course of a semester.
 
-## [Resume](https://www.loewenthal.net/MatanyaResume_v1.4.2-SDE.pdf)
+## [Resume](https://www.loewenthal.net/pdf/MatanyaResume_v1.4.2-SDE.pdf)
 
 ## [CV](https://www.loewenthal.net/cv)
 
