@@ -12,6 +12,8 @@ My background in leading groups of counselors providing wilderness therapy also 
 
 I have experience with fast-changing development requirements, and have built applications that account for several different team’s objectives and needs, such as in a data pipeline for 7 different academic teams working within a premier Network Dynamics laboratory over the course of a semester.
 
+---
+
 # Projects
 
 ## [rinstall](https://github.com/MatanyaLoewenthal/rinstall)
@@ -21,9 +23,32 @@ I have experience with fast-changing development requirements, and have built ap
 
 `rinstall` is a Rust CLI application for reinstalling programs after upgrading or changing a Linux/Unix based Operating System. By building a human readable Yaml file of all installed applications, rebuilding complicated development environments is simplified.
 
-**Languages: `Rust`**
+**Languages & Tools: `Rust`**
 
 ---
+
+## [Campus Key Eventer](https://github.com/MatanyaLoewenthal/CampusKeyEventer)
+![GitHub Repo stars](https://img.shields.io/github/stars/MatanyaLoewenthal/CampusKeyEventer?style=social)
+
+*See what's big on campus, and where*
+
+Campus Key Eventer is an extension to the Campus Key app developed by Nelnet Campus Commerce. Using an integrated web app to display, organize, and register for campus events, Eventer allows you to visualize and pinpoint campus hot spots.
+
+**Languages & Tools: `Python`, `Figma`, and `Flask`**
+
+---
+
+## [Pyarcade](https://github.com/MatanyaLoewenthal/Pyarcade)
+![GitHub Repo stars](https://img.shields.io/github/stars/MatanyaLoewenthal/Pyarcade?style=social)
+
+*Games on the cloud*
+
+PyArcade is a flask web arcade with a variety of games, such as Blackjack, Crazy Eights, Mastermind, and Mindsweeper. PyArcade was developed as a semester long project for Introduction to Software Engineering (CMSC435).
+
+**Languages & Tools: `Python`, `Docker`, `AWS`, `Flask`, and `Git`**
+
+---
+
 
 
 <!-- ## [Resume](https://www.loewenthal.net/pdf/MatanyaResume_v1.4.2-SDE.pdf)
