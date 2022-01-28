@@ -27,6 +27,18 @@ I have experience with fast-changing development requirements, and have built ap
 
 ---
 
+## [Pypline](https://github.com/MatanyaLoewenthal/Breathing-Analytics-Pipeline)
+![GitHub Repo stars](https://img.shields.io/github/stars/MatanyaLoewenthal/Breathing-Analytics-Pipeline?style=social)
+
+*Modular data pipeline for statistical and AI/ML processing*
+
+
+Pypline (developed under the Breathing-Analytics-Pipeline project at the University of Maryland MIND Lab) is a data pipelining application for orchestrating mutiple data processing and analyzing modules in a predetermined order. 
+
+**Languages & Tools: `Python`, `Bash`, `Docker` and `Conda`**
+
+---
+
 ## [Campus Key Eventer](https://github.com/MatanyaLoewenthal/CampusKeyEventer)
 ![GitHub Repo stars](https://img.shields.io/github/stars/MatanyaLoewenthal/CampusKeyEventer?style=social)
 
